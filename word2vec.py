@@ -1,6 +1,7 @@
 from gensim.models import word2vec
 
 # reference_url : https://www.cnblogs.com/pinard/p/7278324.html
+# Official_API: https://radimrehurek.com/gensim/models/word2vec.html
 
 
 def main():
